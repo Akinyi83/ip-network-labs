@@ -28,7 +28,7 @@ Welcome to my networking lab portfolio! This repository contains two detailed, h
 - Proper segmentation using VLANs and trunk configuration
 - Prevented STP attacks with BPDU guard
 
- [View Week 4 Lab Report](0Actual Router and VLANs Configuration on SwitchesReport.md)
+ [View Week 4 Lab Report](https://github.com/Akinyi83/ip-network-labs/blob/main/Week%204%20VLANs%20and%20Secure%20Switch%20Configuration/0Actual%20Router%20and%20VLANs%20Configuration%20on%20SwitchesReport.md)
 
 ---
 
@@ -48,7 +48,7 @@ Welcome to my networking lab portfolio! This repository contains two detailed, h
 - Enabled remote and local admin access using SSH and AAA
 - Segregated traffic and protected internal hosts using NAT & ACLs
 
- [View Week 5 Lab Report](asa_firewall_cli.md)
+ [View Week 5 Lab Report](https://github.com/Akinyi83/ip-network-labs/blob/main/Week%205%20%20Configure%20ASA%20Basic%20Settings%20and%20Firewall%20Using%20the%20CLI%20Report/asa_firewall_cli.md)
 
 ---
 

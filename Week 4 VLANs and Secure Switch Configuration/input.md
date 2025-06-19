@@ -991,7 +991,7 @@ ip default-gateway 192.168.10.1 !
 
 This lab has equipped me with the skills to implement essential network
 security techniques using VLANs and switch security features on Cisco
-switches. I have effectively learned how to:
+switches. I have effectively learned how to;
 
 > • Configure VLANs to segment your network and isolate traffic.
 >
